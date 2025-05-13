@@ -1,0 +1,24 @@
+# Data files
+*.csv
+Data/*.csv
+
+# Environment directories
+imbalance_env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.log
+*.tmp 
