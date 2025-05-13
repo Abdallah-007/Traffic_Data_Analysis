@@ -77,21 +77,5 @@ The severe class imbalance (0.1% fatal crashes) presented challenges for predict
 - With class weighting and threshold optimization, we improved recall for fatal crashes to 9%
 - This demonstrates the challenge of predicting rare but critical events
 
-## Recommendations
-
-Based on the analysis, we recommend:
-
-1. **For Traffic Management**:
-   - Increase patrol presence during peak crash hours
-   - Target Friday afternoon rush hour for special attention
-   - Focus on night-time driving safety campaigns
-
-2. **For Infrastructure**:
-   - Improve street lighting in high-fatality areas
-   - Enhance road drainage in areas prone to weather-related crashes
-   - Add traffic calming measures in high-risk corridors
-
-3. **For Public Awareness**:
-   - Develop targeted safety campaigns for night drivers
-   - Create weather alerts that include driving safety tips
-   - Educate on the dangers of rush hour distracted driving 
+## Dataset
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data
